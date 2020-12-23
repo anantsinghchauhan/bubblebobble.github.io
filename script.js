@@ -1,4 +1,4 @@
-var timer = 10;
+var timer = 30;
 var score = 0;
 var timerelem = document.querySelector('#timerelem');
 var hitelem = document.querySelector('#hitelem');
